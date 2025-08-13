@@ -1,7 +1,13 @@
-
 # koishi-plugin-music-link
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-music-link?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-music-link)
+
+## 原始仓库：
+> https://github.com/shangxueink/koishi-shangxue-apps/tree/main/plugins/music-link 
+
+## fork此插件时候 上游仓库版本号:
+> 1.7.30
+
 
 🎵 **音乐下载** - 搜索并提供QQ音乐和网易云音乐平台的歌曲下载链接，🤩付费的也可以欸！？
 

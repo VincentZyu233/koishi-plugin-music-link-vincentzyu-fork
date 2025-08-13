@@ -1,0 +1,5 @@
+# Ignore all files in assets folder
+assets/*
+
+# But keep the assets folder itself
+!assets/.gitkeep
