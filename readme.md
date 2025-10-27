@@ -10,8 +10,9 @@
 
 ## 效果预览
 
-![preview.png](preview.png)
-![preview2.png](preview2.png)
+![https://gitee.com/vincent-zyu/koishi-plugin-music-link-vincentzyu-fork/releases/download/example_image/songlist_example_source.png](https://gitee.com/vincent-zyu/koishi-plugin-music-link-vincentzyu-fork/releases/download/example_image/songlist_example_source.png)
+![https://gitee.com/vincent-zyu/koishi-plugin-music-link-vincentzyu-fork/releases/download/example_image/songlist_example_flat.png](https://gitee.com/vincent-zyu/koishi-plugin-music-link-vincentzyu-fork/releases/download/example_image/songlist_example_flat.png)
+![https://gitee.com/vincent-zyu/koishi-plugin-music-link-vincentzyu-fork/releases/download/example_image/onebot_example.png](https://gitee.com/vincent-zyu/koishi-plugin-music-link-vincentzyu-fork/releases/download/example_image/onebot_example.png)
 
 ## fork版本的更新日志
 
@@ -23,6 +24,11 @@
 - **1.7.31-vincentzyu.v6+20251027**
   - 支持发送onebot音乐卡片
   - 新增落月apiV2， powered by `api.vkeys.cn`，支持qq音乐、网易云 以及 二者聚合
+
+- **1.7.31-vincentzyu.v7+20251028**
+  - 新增html渲染模板：FLAT_MODERN
+  - 支持自定义字体，在配置项中填入字体路径即可
+  - 更新readme.md
 
 -----
 # 以下是原始仓库的readme
