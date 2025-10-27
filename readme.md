@@ -20,7 +20,9 @@
 
 ## 安装
 
-在koishi插件市场搜索并安装`music-link`
+在koishi插件市场 搜索并安装`music-link-vincentzyu-fork`
+或者
+在koishi依赖管理 右上角加号 搜索`koishi-plugin-music-link-vincentzyu-fork`
 
 ---
 
@@ -136,9 +138,16 @@
 ---
 
 
+### fork版本的更新日志
 
+- **1.7.31-vincentzyu.v4+20250923**
 
-### 更新日志
+- **1.7.31-vincentzyu.v4+20250923**
+  - fork以后的所有改动:
+    - 只保留command6和8，其他全删了，因为貌似apiG了((
+    - 提供两种渲染图片样式
+
+### 上游仓库的更新日志
 
 - **1.7.23**：
   - 添加`网易点歌`的最大时长限制
