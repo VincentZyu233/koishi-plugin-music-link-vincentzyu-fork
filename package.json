@@ -6,7 +6,8 @@
   "typings": "lib/index.d.ts",
   "files": [
     "lib",
-    "dist"
+    "dist",
+    "preview.png"
   ],
   "license": "MIT",
   "keywords": [

@@ -22,7 +22,7 @@
 
 - **1.7.31-vincentzyu.v6+20251027**
   - 支持发送onebot音乐卡片
-  - 新增api，支持qq音乐、网易云 以及 二者聚合
+  - 新增落月apiV2， powered by `api.vkeys.cn`，支持qq音乐、网易云 以及 二者聚合
 
 -----
 # 以下是原始仓库的readme
